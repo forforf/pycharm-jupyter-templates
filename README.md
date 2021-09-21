@@ -108,6 +108,7 @@ model.fit(X, y)
 
 ## Known Issues
 
+[pycharm-jupyter-templates issues](https://github.com/forforf/pycharm-jupyter-templates/issues)
 
 ## Author Note
 I created this because I couldn't find a Jupyter templating engine. My biggest requirement is that
